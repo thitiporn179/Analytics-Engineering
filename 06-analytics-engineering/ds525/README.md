@@ -3,6 +3,9 @@ Welcome to your new dbt project!
 ### Using the starter project
 
 Try running the following commands:
+
+cd ds525
+- dbt debug
 - dbt run
 - dbt test
 
