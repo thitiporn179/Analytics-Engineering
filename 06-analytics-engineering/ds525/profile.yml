@@ -3,7 +3,7 @@ ds525:
     dev:
       dbname: postgres
       host: localhost
-      pass: "postgrespo\e[D\e[C\e[Dpopostgres"
+      pass: "postgres"
       port: 5432
       schema: public
       threads: 1
