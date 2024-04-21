@@ -1,1 +1,16 @@
 # Analytics-Engineering
+-	Add scripts folder and docker compose up file to 06 project.
+-	Run docker compose up
+-	Go to port 3000 > go to sqlpad website > log in > try to queries sql scripts.
+-	Open another terminal > create Python virtual environment > python -m venv ENV
+-	Activate virtual > source ENV/bin/activate
+-	Install DBT > pip install dbt-core dbt-postgres (ถ้าเชื่อมต่อกับ postgres) 
+-	จากนั้นใส่คำสั่งแรก dbt int
+-	จากนั้นกรอกข้อมูลตาม prompt >ใส่ชื่อ project ds525
+-	เลือก database > postgres (ใส่เลข 1)
+-	ใส่ชื่อ hostname > localhost
+-	ใส่ username > postgres
+-	ใส่ password 
+-	ใส่ชื่อ database > postgres
+-	ใส่ชื่อ schema > public
+-	Thread > 1
